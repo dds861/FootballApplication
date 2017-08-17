@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/menu1"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Все Турниры" />
+        <item
+            android:id="@+id/menu2"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Brasileiro da Série A"
+            />
+        <item
+            android:id="@+id/menu3"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Premier League"
+            />
+        <item
+            android:id="@+id/menu4"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Championship"
+            />
+        <item
+            android:id="@+id/menu5"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="League One"
+            />
+        <item
+            android:id="@+id/menu6"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="League Two"
+            />
+        <item
+            android:id="@+id/menu7"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Eredivisie" />
+        <item
+            android:id="@+id/menu8"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ligue 1" />
+        <item
+            android:id="@+id/menu9"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Ligue 2" />
+        <item
+            android:id="@+id/menu10"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="1. Bundesliga" />
+        <item
+            android:id="@+id/menu11"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="2. Bundesliga" />
+        <item
+            android:id="@+id/menu12"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Primera Division" />
+        <item
+            android:id="@+id/menu13"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Serie A" />
+        <item
+            android:id="@+id/menu14"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Primeira Liga" />
+        <item
+            android:id="@+id/menu15"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="DFB-Pokal" />
+
+        <item
+            android:id="@+id/menu16"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Serie B" />
+
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+
+</menu>
